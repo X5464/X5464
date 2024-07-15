@@ -1,10 +1,7 @@
-[![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNjdHV2em15bnR4dXdjYWl2azNwYjA5ODljaXA4ZzR5M3I5aWZiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.webp)
+![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNjdHV2em15bnR4dXdjYWl2azNwYjA5ODljaXA4ZzR5M3I5aWZiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.webp)
 <h1 align="center">Hi 👋, I'm Rajarshi Chakraborty</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img aling= “right” alt=“Coding” width=“400” src =“https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOSPJ_TI6EIfbzld-kgoTIrQo7kN-likwfsQ&s”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x5464&label=Profile%20views&color=0e75b6&style=flat" alt="x5464" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=x5464" alt="x5464" /></a> </p>
 
 - 🔭 I’m currently Studing at **Jain University**
 

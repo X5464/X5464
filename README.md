@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Studing at **Jain University**
 
-- 🌱 I’m currently learning **C,Python,MySQL**
+- 🌱 I’m currently learning **C,Python,Java,Data Structure ,MySQL**
 
 - 📫 How to reach me **rajarshi7474@gmail.com**
 

@@ -62,7 +62,17 @@
 
 - 🎓 <b>Google Cybersecurity Certificate</b> *(In Progress)*  
 - 📜 <b>Cybersecurity Course by Teachnook</b> (in collaboration with Cognizance’24, IIT Roorkee)  
-  <br>📄 Certificate ID: <code>TNCCCS-241072</code> | 🗓️ Issued: June 21, 2025
+  <br>📄 Certificate ID: <code>TNCCCS-241072</code> | 🗓️ Issued: June 21, 2025  
+- 🔰 <b>Cybersecurity Internship at Teachnook</b> (in association with Btech Walleh)  
+  <br>🗓️ Duration: Nov–Dec 2024 | 🧪 Mentor-led training program with practical labs  
+- 🛡️ <b>Cybersecurity Analyst Virtual Experience</b> – Tata Group via Forage  
+  <br>🧠 Focus: IAM, threat analysis, and professional documentation  
+- 🧠 <b>Shields Up: Cybersecurity Simulation</b> – AIG via Forage  
+  <br>🧪 Focus: Threat detection, CISA alignment, ransomware response using Python  
+- 🏅 <b>Introduction to Cybersecurity</b> – Cisco Networking Academy  
+  <br>📛 Issued with a verified digital badge by Cisco  
+- 📜 <b>Cybersecurity Industrial Internship</b> – Edu-versity (with Wipro DICE ID)  
+  <br>🗓️ Duration: Oct–Nov 2024 | 📄 LOR by Academic Head | 🏛️ In collaboration with IIT Guwahati – Alcheringa
 - 🧪 <b>Lab Experience:</b>  
   - Nmap Scanning and Vulnerability Mapping  
   - Wireshark Packet Analysis  
